@@ -4,6 +4,8 @@
 
 > Do not overuse it, or your account might be banned by Heroku.
 
+> Update: Some users report that deploying from this repo might result in your account being banned. It is recommended to fork this project then deploy from your forked repo.
+
 ## Optionally sync downloaded file to your cloud drive with Rclone
 
 1. Setup Rclone locally by following offical instructions: https://rclone.org/docs/
